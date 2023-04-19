@@ -12,6 +12,6 @@ Para hacer esto, busca las líneas de código que contienen las siguientes varia
 > password = driver.find_element(By.NAME, "password")
 > password.send_keys("AQUI PONES TU CONTRASEÑA")
 
-Reemplaza "AQUI PONES TU USUARIO" con tu nombre de usuario de Instagram, y "AQUI PONES TU CONTRASEÑA" con tu contraseña.
+Reemplaza **"AQUI PONES TU USUARIO"** con tu nombre de usuario de Instagram, y **"AQUI PONES TU CONTRASEÑA"** con tu contraseña.
 
 
