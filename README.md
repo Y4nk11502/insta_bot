@@ -14,4 +14,7 @@ Para hacer esto, busca las líneas de código que contienen las siguientes varia
 
 Reemplaza **"AQUI PONES TU USUARIO"** con tu nombre de usuario de Instagram, y **"AQUI PONES TU CONTRASEÑA"** con tu contraseña.
 
+## Uso
+Para usar el bot, asegúrate de tener instalado Python y la biblioteca Selenium. Luego, ejecuta el archivo de Python en tu terminal con el comando:
+>> python bot-instagram.py
 
