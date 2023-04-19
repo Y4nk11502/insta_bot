@@ -5,13 +5,14 @@ Configuración
 Antes de utilizar el bot, es necesario configurar el archivo de Python modificando los campos correspondientes al nombre de usuario y la contraseña de Instagram.
 
 Para hacer esto, busca las líneas de código que contienen las siguientes variables:
-
+'
 > username = driver.find_element(By.NAME, "username")
 > username.send_keys("AQUI PONES TU USUARIO")
-
+'
+'
 > password = driver.find_element(By.NAME, "password")
 > password.send_keys("AQUI PONES TU CONTRASEÑA")
-
+'
 Reemplaza **"AQUI PONES TU USUARIO"** con tu nombre de usuario de Instagram, y **"AQUI PONES TU CONTRASEÑA"** con tu contraseña.
 
 ## Uso
