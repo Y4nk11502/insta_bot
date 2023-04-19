@@ -1,4 +1,4 @@
-### Insta_bot ###
+## Insta_bot 
 Este es un programa en Python que utiliza la biblioteca Selenium para automatizar acciones en la plataforma de Instagram. En particular, este bot da "me gusta" a las fotos de un hashtag y comenta cada 3-6 fotos con un comentario aleatorio.
 
 Configuración
@@ -13,3 +13,5 @@ Para hacer esto, busca las líneas de código que contienen las siguientes varia
 > password.send_keys("AQUI PONES TU CONTRASEÑA")
 
 Reemplaza "AQUI PONES TU USUARIO" con tu nombre de usuario de Instagram, y "AQUI PONES TU CONTRASEÑA" con tu contraseña.
+
+
