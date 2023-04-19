@@ -19,3 +19,10 @@ Reemplaza **"AQUI PONES TU USUARIO"** con tu nombre de usuario de Instagram, y *
 Para usar el bot, asegúrate de tener instalado Python y la biblioteca Selenium. Luego, ejecuta el archivo de Python en tu terminal con el comando:
 > python bot-instagram.py
 
+El bot abrirá una ventana del navegador Chrome y accederá a la página de inicio de sesión de Instagram. Después de iniciar sesión, el bot buscará fotos relacionadas
+con los hashtags indicados y dará "me gusta" a un máximo de 70 fotos por hashtag
+
+Puedes agregar o modificar los hashtags que quieras buscar cambiando la lista de hashtags en el código:
+```python
+hashtag_list = ['animales', 'perros', 'gymbro', 'like4like','likeforlike', 'followforfollow', 'follow4follow', 'followme', 'followback', 'follow', 'follo']
+```
