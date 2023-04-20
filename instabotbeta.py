@@ -22,12 +22,11 @@ driver.get("https://www.instagram.com/accounts/login/?source=auth_switcher")
 sleep(2)
 
 #Aceptar cookies
-"""
 sleep(1)
 option = 'button[class="_a9-- _a9_1"]'
 button_cookies = driver.find_element(By.CSS_SELECTOR, option).click()
 sleep(2)
-"""
+
 
 #Iniciar sesion
 username = driver.find_element(By.NAME, "username")
